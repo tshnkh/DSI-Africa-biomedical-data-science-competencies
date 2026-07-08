@@ -24,11 +24,11 @@ Competency No.
 Competency
 |
 |
-:---
+-------
 |
-:---
+--------
 |
-:-----
+--------
 |
 |
 Data analytics
