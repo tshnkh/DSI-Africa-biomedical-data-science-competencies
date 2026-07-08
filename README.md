@@ -37,3 +37,21 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 | Professional development | 25 | Knowledge and skills transfer with an ability to mentor and train others |
 | Research methods | 9 | Familiarity with experimental design and research techniques appropriate to the discipline |
 | Team science | 10 | Ability to work effectively and collaboratively in transdisciplinary research teams |
+
+# Suggetested Hierarchial Educational Taxonomy for the BDS Framework - Adapted from Bloom's Taxonomy
+
+| Competency Level | Taxonomy Description | Bloom's Levels |
+|-------------------|----------------------|-----------------|
+| 0 | No competency | No equivalent in Bloom's |
+| 1 | Awareness | Remember, Understand (Knowledge, Comprehension) |
+| 2 | Working knowledge | Application, Analysis |
+| 3 | Specialist knowledge | Creation, Evaluation (Synthesis, Evaluation) |
+
+# Identified Personas for the BDS Competencies Framework
+
+| Data User | Scientist | Engineer |
+|-------------------|----------------------|-----------------|
+| Novice |
+| Intermediate | 
+| Advanced |
+
