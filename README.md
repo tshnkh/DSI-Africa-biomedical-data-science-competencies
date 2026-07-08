@@ -50,7 +50,7 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 # Identified Personas for the BDS Competencies Framework
 Nine personas representing career stages
 
-| Career Stage| Data User | Scientist | Engineer |
+| Career Stage| Data User | Data Scientist | Data Engineer |
 |-------------------|:----------------------:|:-----------------:|:-----------------:|
 | Novice | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Intermediate | :white_check_mark: | :white_check_mark: | :white_check_mark: |
