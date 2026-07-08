@@ -16,8 +16,8 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 
 # List of Biomedical Data Science Competencies
 
-| Core group/category | No. | Competency |
-|----------------------|-----|------------|
+| Core group/category | No. | Competency | References |
+|----------------------|-----|------------|----------|
 | Data analytics | 1 | Understanding the data science process and an ability to apply it in domain (data science process: data acquisition, exploration, visualisation, preparation, wrangling, model training, deployment and monitoring) |
 | Data analytics | 2 | Manage model building techniques (can be machine learning model, deep learning model, language processing model etc) |
 | Data analytics | 3 | Big data ecosystem and its major components i.e., data ingestion, transformation, storage, analysis & consumption |
@@ -56,3 +56,7 @@ Nine personas representing career stages
 | Intermediate | Intermediate Data User | Intermediate Data Scientist | Intermediate Data Engineer |
 | Advanced | Advanced Data User | Advanced Data Scientist | Advanced Data Engineer |
 
+# Acknowledgements
+DS-I Africa Training Working Group - Competencies Framework Task Force
+Global Bioinformatics Education Summit 2023, 2024, 2025
+DS-I Africa/eLwazi ODSP Train-the-Trainer Participants
