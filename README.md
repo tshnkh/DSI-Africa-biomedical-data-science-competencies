@@ -48,10 +48,11 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 | 3 | Specialist knowledge | Creation, Evaluation (Synthesis, Evaluation) |
 
 # Identified Personas for the BDS Competencies Framework
+Nine personas representing career stages
 
 | Career Stage| Data User | Scientist | Engineer |
 |-------------------|----------------------|-----------------|-----------------|
 | Novice | Novice Data User | Novice Data Scientist | Novice Data Engineer |
-| Intermediate | Intermediate Data User
-| Advanced | Advanced Data User
+| Intermediate | Intermediate Data User | Intermediate Data Scientist | Intermediate Data Engineer |
+| Advanced | Advanced Data User | Advanced Data Scientist | Advanced Data Engineer |
 
