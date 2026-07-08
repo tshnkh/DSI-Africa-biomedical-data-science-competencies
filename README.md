@@ -58,5 +58,7 @@ Nine personas representing career stages
 
 # Acknowledgements
 DS-I Africa Training Working Group - Competencies Framework Task Force
+
 Global Bioinformatics Education Summit 2023, 2024, 2025
+
 DS-I Africa/eLwazi ODSP Train-the-Trainer Participants
