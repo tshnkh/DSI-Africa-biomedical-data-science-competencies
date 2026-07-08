@@ -16,152 +16,24 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 
 # List of Biomedical Data Science Competencies
 
-|
-Core Group?Category
-|
-Competency No.
-|
-Competency
-|
-|
--------
-|
---------
-|
---------
-|
-|
-Data analytics
-|
-1
-|
-Understanding the data science process and an ability to apply it in domain (data science process: data acquisition, - exploration, - visualisation, - preparation,- wrangling, model training, deployment and monitoring)
-|
-|
-Data analytics
-|
-2
-|
-Manage model building techniques (can be machine learning model, deep learning model, language processing model etc)
-|
-|
-Data analytics
-3
-|
-Big data ecosystem and its major components i.e., data ingestion, transformation, storage, analysis & consumption
-|
-|
-Data analytics
-|
-4
-|
-Machine learning techniques i.e. unsupervised, semi-supervised and supervised algorithms
-|
-|
-Data analytics
-|
-5
-|
-Familiarity in at least one programming language appropriate to the domain (e.g. R and/or Python)
-|
-|
-Data analytics
-|
-7
-|
-Data visualisation and communication using programming/coding a language
-|
-|
-Data engineering
-|
-14
-|
-Installation or deployment of software in appropriate computing environment (e.g., HPC, cloud, PC)
-|
-|
-Data engineering
-|
-6
-|
-Engineering of data science infrastructure appropriate for data project
-|
-|
-Data governance
-|
-15
-|
-Compliance with ethical and professional standards related to biomedical research and clinical data
-|
-|
-Data governance
-|
-24
-|
-Data security practices, including accreditation and standards (e.g., ISO/IEC 27002, ISO/IEC 27001, ISO/IEC 27017) relevant to the domain
-|
-|
-Data management
-|
-13
-|
-Best practices in data management according to community standards & principles appropriate to the domain (e.g. FAIR principles)
-|
-|
-Data management
-|
-19
-|
-Identify, access and compile relevant data sets from multiple publicly available sources (e.g. databases, literature), and requesting access to sensitive and confidential data
-|
-|
-Domain knowledge
-|
-12
-|
-Apply expertise in formal & biomedical sciences appropriate to the discipline/domain
-|
-|
-Domain knowledge
-|
-22
-|
-Interpret variations in data in a biomedical context, including understanding limitations of analysis, assessing quality and evidence for clinical interpretation
-|
-|
-Professional development
-|
-16
-|
-Communicate meaningfully with a range of audiences - within and beyond your profession
-|
-|
-Professional development
-|
-11
-|
-Ability to assess own skills (technical & interpersonal) and identify areas for upskilling and improvement for continued professional development
-|
-|
-Professional development
-|
-25
-|
-Knowledge and skills transfer with an ability to mentor and train others
-|
-|
-Research methods
-|
-9
-|
-Familiarity with experimental design and research techniques appropriate to the discipline
-|
-|
-Team science
-|
-10
-|
-Ability to work effectively and collaboratively in transdisciplinary research teams
-|
-|
-
-# List of 
+| Core group/category | No. | Competency |
+|----------------------|-----|------------|
+| Data analytics | 1 | Understanding the data science process and an ability to apply it in domain (data science process: data acquisition, exploration, visualisation, preparation, wrangling, model training, deployment and monitoring) |
+| Data analytics | 2 | Manage model building techniques (can be machine learning model, deep learning model, language processing model etc) |
+| Data analytics | 3 | Big data ecosystem and its major components i.e., data ingestion, transformation, storage, analysis & consumption |
+| Data analytics | 4 | Machine learning techniques i.e. unsupervised, semi-supervised and supervised algorithms |
+| Data analytics | 5 | Familiarity in at least one programming language appropriate to the domain (e.g. R and/or Python) |
+| Data analytics | 7 | Data visualisation and communication using programming/coding a language |
+| Data engineering | 14 | Installation or deployment of software in appropriate computing environment (e.g., HPC, cloud, PC) |
+| Data engineering | 6 | Engineering of data science infrastructure appropriate for data project |
+| Data governance | 15 | Compliance with ethical and professional standards related to biomedical research and clinical data |
+| Data governance | 24 | Data security practices, including accreditation and standards (e.g., ISO/IEC 27002, ISO/IEC 27001, ISO/IEC 27017) relevant to the domain |
+| Data management | 13 | Best practices in data management according to community standards & principles appropriate to the domain (e.g. FAIR principles) |
+| Data management | 19 | Identify, access and compile relevant data sets from multiple publicly available sources (e.g. databases, literature), and requesting access to sensitive and confidential data |
+| Domain knowledge | 12 | Apply expertise in formal & biomedical sciences appropriate to the discipline/domain |
+| Domain knowledge | 22 | Interpret variations in data in a biomedical context, including understanding limitations of analysis, assessing quality and evidence for clinical interpretation |
+| Professional development | 16 | Communicate meaningfully with a range of audiences - within and beyond your profession |
+| Professional development | 11 | Ability to assess own skills (technical & interpersonal) and identify areas for upskilling and improvement for continued professional development |
+| Professional development | 25 | Knowledge and skills transfer with an ability to mentor and train others |
+| Research methods | 9 | Familiarity with experimental design and research techniques appropriate to the discipline |
+| Team science | 10 | Ability to work effectively and collaboratively in transdisciplinary research teams |
