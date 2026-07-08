@@ -51,7 +51,7 @@ Affiliation(s): University of Cape Town, DS-I Africa Coordinating Centre, eLwazi
 Nine personas representing career stages
 
 | Career Stage| Data User | Scientist | Engineer |
-|-------------------|----------------------|-----------------|-----------------|
+|-------------------|:----------------------:|-----------------|-----------------|
 | Novice | :white_check_mark: | Novice Data Scientist | Novice Data Engineer |
 | Intermediate | Intermediate Data User | Intermediate Data Scientist | Intermediate Data Engineer |
 | Advanced | Advanced Data User | Advanced Data Scientist | Advanced Data Engineer |
